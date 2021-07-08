@@ -1,0 +1,42 @@
+{
+    "1": {
+        "id": 1,
+        "title": "Новость 1",
+        "text": "У нас одна новость и она хорошая",
+        "isPrivate": false,
+        "category_id": 1,
+        "image": null
+    },
+    "2": {
+        "id": 2,
+        "title": "новость 2",
+        "text": "Тут очень очень хорошие новости",
+        "isPrivate": false,
+        "category_id": 1,
+        "image": null
+    },
+    "3": {
+        "id": 3,
+        "title": "Новость 3",
+        "text": "У нас одна новость и она хорошая",
+        "isPrivate": true,
+        "category_id": 2,
+        "image": null
+    },
+    "4": {
+        "id": 4,
+        "title": "новость 4",
+        "text": "Тут плохие плохие очень новости",
+        "isPrivate": false,
+        "category_id": 2,
+        "image": null
+    },
+    "5": {
+        "title": "fkkdkksd",
+        "category_id": "2",
+        "text": "fldsas",
+        "image": "\/storage\/f8z3VvcBzBiEALelYNtAn5Xla98HvIY9w2nkHftJ.jpg",
+        "id": 5,
+        "isPrivate": false
+    }
+}
